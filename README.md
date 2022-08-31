@@ -1,6 +1,6 @@
 # Bingo App
 
-Cartón random con diseño minimalista
+Cartón random con diseño minimalista.
 
 ## Instrucciones de uso:
 
