@@ -1,0 +1,36 @@
+body {
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+}
+.card-title {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 1px 20px #ddd, 0 1px 30px #ddd, 0 1px 40px blue, 0 1px 50px blue,
+    0 1px 60px blue, 0 1px 70px blue, 0 1px 80px blue;
+}
+.card-btn {
+  margin: 20px;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  background: blue;
+  box-shadow: 0 1px 5px #000;
+  cursor: pointer;
+}
+.card-btn:hover {
+  background: #00ccff;
+}
+.card-aling {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
